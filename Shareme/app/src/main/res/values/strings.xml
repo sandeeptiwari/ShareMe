@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shareme</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<!-- paste facebook_app_id here -->
+    <string name="facebook_app_id">87257009280000</string>
+</resources>
